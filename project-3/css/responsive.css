@@ -1,0 +1,54 @@
+nav{
+    position: absolute;
+    flex-direction: column;
+    margin-top: 88px;
+    overflow: hidden;
+}
+.navbar img{
+    margin: 20px;
+    cursor: pointer;
+
+}
+.menu-icon{
+    display: none;
+}
+
+nav ul li a{
+margin: -10px;
+font-size: 13px;
+}
+/* .............product-details.............. */
+.single-product .col-2 h1 {
+    font-size: 38px;
+    /* line-height: 5px; */
+    line-height: 41px;
+}
+/* ...........account-page............ */
+.form-container {
+    width: 220px;
+    height: 325px;
+    margin-left: 50px;
+}
+
+
+/* ...........footer.......... */
+
+h3{
+
+    text-align: center
+}
+.footer p {
+
+    font-size: 12px;
+}
+.app-logo img {
+    width: 150px;
+    transform: translateX(71px);
+    display: flex;
+}
+.footer-col-2 img {
+    width: 165px;
+    transform: translateX(60px);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
